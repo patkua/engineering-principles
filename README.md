@@ -32,8 +32,8 @@
 
 ## Talks about Engineering Principles
 
-- [Peter Campbell (@p3t3r)](http://twitter.com/p3t3r) on [[**Architecture as Belief[**](https://www.oreilly.com/library/view/oreilly-software-architecture/9781491958490/video284872.html?) as part of London Software Architecture Conference Oct 2016.
-- [Martin Fowler (@martinfowler)](https://twitter.com/martinfowler) and [Birgitta Böckeler (@birgitta410)](http://twitter.com/birgitta410) on [[**Cultivating Architecture[**](https://www.youtube.com/watch?v=MZnrxjw602E) at CraftConf May 2019.
+- [Peter Campbell (@p3t3r)](http://twitter.com/p3t3r) on [**Architecture as Belief**](https://www.oreilly.com/library/view/oreilly-software-architecture/9781491958490/video284872.html?) as part of London Software Architecture Conference Oct 2016.
+- [Martin Fowler (@martinfowler)](https://twitter.com/martinfowler) and [Birgitta Böckeler (@birgitta410)](http://twitter.com/birgitta410) on [[**Cultivating Architecture**](https://www.youtube.com/watch?v=MZnrxjw602E) at CraftConf May 2019.
 - [Birgitta Böckeler (@birgitta410)](http://twitter.com/birgitta410) on [**Cultivating Architecture**](https://www.youtube.com/watch?v=--t3uk3_rSw) at LeadDev Berlin Nov 2019
 
 ## Related 
