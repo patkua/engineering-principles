@@ -8,6 +8,7 @@
 - [Arsty](https://github.com/artsy/README/blob/master/culture/engineering-principles.md)
 - [Atlantis](https://blog.atlantistech.co/engineering-principles/)
 - [Brewhouse Team](https://github.com/BrewhouseTeam/engineering)
+- [Bungie](https://www.bungie.net/en/News/Article/50666) - C++ Guidelines and principles for Destiny game producers, Bungie
 - [Carwow](https://github.com/carwow/engineering_principles)
 - [Cleo](https://www.meetcleo.com/blog/cleo-ai-engineering-principles/)
 - [ClearScore](https://medium.com/clearscore/clearscore-engineering-principles-14237efe4910)
