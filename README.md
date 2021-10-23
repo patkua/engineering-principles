@@ -7,6 +7,7 @@
 - [AbleHealth](https://github.com/AbleHealth/team/blob/master/engineering/principles-and-practices.md)
 - [Arsty](https://github.com/artsy/README/blob/master/culture/engineering-principles.md)
 - [Apache Mesos's Engineering Principles and Practices](https://mesos.apache.org/documentation/latest/engineering-principles-and-practices/)
+- [Asana - Welcome to Asana Engineering](https://blog.asana.com/2019/11/eng-hello-world/)
 - [Atlantis](https://blog.atlantistech.co/engineering-principles/)
 - [Atlassian Engineering’s handbook: a guide for autonomous teams](https://www.atlassian.com/engineering/handbook)
 - [Betterment](https://betterment.github.io/eng-principles/)
@@ -16,11 +17,14 @@
 - [Cleo](https://www.meetcleo.com/blog/cleo-ai-engineering-principles/)
 - [ClearScore](https://medium.com/clearscore/clearscore-engineering-principles-14237efe4910)
 - [ClimbEngineering](https://climbcredit.app.box.com/s/p05z4cqmeyxqfp7uqcm4qri6gs2scl6q)
+- [Cogent's Data Engineering Principles](https://cogent.co/blog/data-engineering-principles/)
 - [Coinbase](https://blog.coinbase.com/what-are-coinbases-engineering-principles-c798da7330c)
 - [Envoy](https://github.com/envoy/Engineering/blob/master/principles.md)
 - [Financial Times](https://www.ft.com/tech-principles)
+- [Freeagent](https://engineering.freeagent.com/2021/05/14/engineering-principles-at-freeagent/)
 - [GetYourGuide (Data Science Priciples)](https://inside.getyourguide.com/blog/2020/3/10/15-data-science-principles-we-live-by)
 - [GetYourGuide (Software Engineering Priciples)](https://inside.getyourguide.com/blog/2019/6/18/relevant/our-engineering-principles)
+- [Go-jek Engineering Guiding Principles 101](https://www.gojek.com/blog/gohr/go-jek-engineering-guiding-principles-101/)
 - [Gov.UK](https://www.gov.uk/guidance/government-design-principles)
 - [Gusto (PDF)](https://app.gusto.com/static/engineering-principles-and-values.pdf)
 - [Handwriting.IO](https://github.com/handwritingio/principles)
@@ -33,6 +37,7 @@
 - [Monzo](https://monzo.com/blog/2018/06/29/engineering-principles/)
 - [NuBank](https://building.nubank.com.br/the-value-of-canonicity/) - This seems to be an overriding principle that guide's all other principlest
 - [Khan Academy (Google Doc)](https://docs.google.com/document/d/1PW4NYn9pYNam2EuGEsTN9pTgwTfFnT_R9OZLJJICWQU/edit)
+- [Procuret Engineering Principles](https://procuret.com/engineering/principles)
 - [Ratio's Engineering Principles](https://ratio.co.uk/engineering-principles)
 - [SoundCloud (Google Doc)](https://docs.google.com/document/d/1XzgSKIFAZQ_eEkkz1OOMdWRDvwlNq0lr53Y2kJVRCL8/edit)
 - [SongKick's Engineering Principles](https://www.songkick.com/info/engineering-principles)
@@ -45,6 +50,7 @@
 - [Trulia](https://www.trulia.com/blog/tech/engineering-principles/#)
 - [TrustPilot](https://github.com/trustpilot/principles)
 - [Whoop](https://engineering.whoop.com/2020/08/26/our-software-engineering-principles/)
+- [Wise's Engineering Values](https://www.wise.jobs/2020/10/27/transferwise-engineering-values/)
 - [Zalando](https://github.com/zalando/engineering-principles)
 
 ## Articles
