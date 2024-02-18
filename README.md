@@ -35,6 +35,7 @@
 - [Meetup](https://medium.com/making-meetup/meetup-architecture-principles-dfbe95887c3)
 - [Mobify](https://github.com/mobify/developer-values)
 - [Monzo](https://monzo.com/blog/2018/06/29/engineering-principles/)
+- MYOB - [Platform Manifesto](https://www.infoq.com/presentations/platform-manifesto/) and [Platform Principles](https://youtu.be/QlYcAvlBr90?t=671)
 - [NuBank](https://building.nubank.com.br/the-value-of-canonicity/) - This seems to be an overriding principle that guide's all other principlest
 - [Khan Academy (Google Doc)](https://docs.google.com/document/d/1PW4NYn9pYNam2EuGEsTN9pTgwTfFnT_R9OZLJJICWQU/edit)
 - [Procuret Engineering Principles](https://procuret.com/engineering/principles)
